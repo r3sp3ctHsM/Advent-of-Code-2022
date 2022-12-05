@@ -1,0 +1,4 @@
+﻿  Supply Stacks.cpp
+G:\Advent of Code 2022\Advent-of-Code-2022\Day 5\Supply Stacks\Supply Stacks\Supply Stacks.cpp(91,31): warning C4018: '<': signed/unsigned mismatch
+G:\Advent of Code 2022\Advent-of-Code-2022\Day 5\Supply Stacks\Supply Stacks\Supply Stacks.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+  Supply Stacks.vcxproj -> G:\Advent of Code 2022\Advent-of-Code-2022\Day 5\Supply Stacks\Debug\Supply Stacks.exe
